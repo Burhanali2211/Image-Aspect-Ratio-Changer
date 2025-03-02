@@ -7,6 +7,7 @@ This Python script processes all images in the current directory, cropping them 
 - Automatically detects and crops images to fit the specified aspect ratio.
 - Supports popular aspect ratios like 16:9, 1:1, 4:3, and more.
 - Saves cropped images with descriptive filenames.
+- then that file requires any name of your desire and then save it
 - Works with `.png`, `.jpg`, and `.jpeg` files.
 
 ## Supported Aspect Ratios
