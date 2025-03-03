@@ -47,6 +47,7 @@ By default, the script crops images to a 16:9 aspect ratio (1920x1080). You can 
 target_width = 1920
 target_height = 1080
 ```
+feel free to ask me anything on my e-mail gamingcristy19@gmail.com
 
 
 ## License
@@ -54,4 +55,5 @@ This project is licensed under the MIT License.
 
 ## Author
 Burhan Ali.
+
 
